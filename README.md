@@ -15,12 +15,12 @@
 -   Python 3.12 以上版本
 -   [Ollama](https://ollama.com/)，我們使用 Llama3.2 模型 (需自行安裝)
 -   [FFmpeg](https://ffmpeg.org/) (用於音訊處理，需自行安裝)
--   [python-dotenv](https://github.com/theskumar/python-dotenv) (用於讀取環境變數)
+-   [python-dotenv](https://github.com/theskumar/python-dotenv/) (用於讀取環境變數)
 -   [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
 -   [Pydub](https://pydub.com/) (用於音訊處理)
--   [gTTS](https://github.com/pndurette/gTTS) (用於語音合成)
--   [Pygame](https://www.pygame.org/news) (用於語音輸出)
--   [Speech Recognition](https://github.com/Uberi/speech_recognition) (用於語音辨識)
+-   [gTTS](https://github.com/pndurette/gTTS/) (用於語音合成)
+-   [pygame](https://github.com/pygame/pygame/) (用於語音輸出)
+-   [Speech Recognition](https://github.com/Uberi/speech_recognition/) (用於語音辨識)
 
 ## 安裝 & 使用方式
 

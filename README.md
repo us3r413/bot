@@ -2,6 +2,26 @@
 
 使用 Llama3.2 LLM 模型來製作麥當勞點餐助理，並且支援語音輸入及輸出。
 
+## 功能
+
+-   支援文字輸入或語音輸入
+-   支援文字輸出及語音輸出
+-   支援多種語言的語音辨識及合成
+-   使用 Ollama 伺服器來進行語言模型的推論
+-   可以知道大麥克是什麼。
+
+## 系統需求
+
+-   Python 3.12 以上版本
+-   [Ollama](https://ollama.com/)，我們使用 Llama3.2 模型 (需自行安裝)
+-   [FFmpeg](https://ffmpeg.org/) (用於音訊處理，需自行安裝)
+-   [python-dotenv](https://github.com/theskumar/python-dotenv) (用於讀取環境變數)
+-   [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/)
+-   [Pydub](https://pydub.com/) (用於音訊處理)
+-   [gTTS](https://github.com/pndurette/gTTS) (用於語音合成)
+-   [Pygame](https://www.pygame.org/news) (用於語音輸出)
+-   [Speech Recognition](https://github.com/Uberi/speech_recognition) (用於語音辨識)
+
 ## 安裝 & 使用方式
 
 1.  下載專案

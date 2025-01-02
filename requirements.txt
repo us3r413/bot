@@ -1,0 +1,8 @@
+gTTS
+FFMPEG
+ollama
+PyAudio
+pydub
+pygame
+python-dotenv
+SpeechRecognition
